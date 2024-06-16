@@ -1,7 +1,7 @@
 # forceCursiveFontEverywhere
 This is a TamperMonkey script that changes the font in most places to Segoe Script = the best cursive font for Windows, that I could find, while also trying to break the least of things on the websites.
 
-The script was designed and tested for Windows, and due to the used script being from Microsoft, I expect it NOT to work with Linux/MacOS/others.
+The script was designed and tested for Windows, and due to the used script being from Microsoft, I expect it to NOT work with Linux/MacOS/others.
 
 Why having a cursive text everywhere, you might ask.
   - For once, I wanted to be able to read handwritten Russian.
